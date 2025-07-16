@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/SmartAPI/.vs/SmartAPI/CopilotIndices/17.14.786.1071
+/src/SmartAPI/.vs/SmartAPI/DesignTimeBuild
+/src/SmartAPI/.vs/SmartAPI/FileContentIndex
+/src/SmartAPI/.vs/SmartAPI
+/src/SmartAPI/SmartAPI/bin
+/src/SmartAPI/SmartAPI/obj
